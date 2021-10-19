@@ -8,7 +8,7 @@
 1. Run > Start debugging. Hay que poner antes el circulo rojo. Eso lo compila y ejecuta. (Elijo GDB y g++).
 
 
-# References
+## References
 This is based on the [video](https://www.youtube.com/watch?v=7QvNY9245hY). If you want a more detailed version you can check the tutorials from VS Code: [Tutorial1](https://code.visualstudio.com/docs/languages/cpp) and
 [Tutorial2](https://code.visualstudio.com/docs/cpp/config-mingw).
 
