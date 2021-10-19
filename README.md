@@ -11,7 +11,7 @@
 ## References
 This is based on the [video](https://www.youtube.com/watch?v=7QvNY9245hY). If you want a more detailed version you can check the tutorials from VS Code: [Tutorial1](https://code.visualstudio.com/docs/languages/cpp) and
 [Tutorial2](https://code.visualstudio.com/docs/cpp/config-mingw).
-For this you need to have installed VS Code and MinGW. See this [tutorial](https://www.youtube.com/watch?v=jfVqzNU3gPg). For VS Code I install the **System version**, because it is simpler to unistall and to see where the APPDATA is. 
+For this you need to have installed VS Code and MinGW. See this [tutorial](https://www.youtube.com/watch?v=jfVqzNU3gPg). For VS Code I install the **System version**, because it is simpler to unistall and to see where the APPDATA is. For more on VS Code see [this](https://code.visualstudio.com/docs/getstarted/introvideos).
 
 # How to create a git repository in VS Code 
 Based on this [tutorial](https://github.com/dsb-lab/SoftwareReproducibilityTutorial).
