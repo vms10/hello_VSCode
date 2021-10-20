@@ -32,3 +32,7 @@ Based on this [tutorial](https://github.com/dsb-lab/SoftwareReproducibilityTutor
 - Create a git repository first.
 - Push the Sync button at the bottom left corner (a cloud that says "Publish to github"). Se abre el command palette y podes cambiarle el nombre al repositorio y elegir publicarlo privado o publico. Asi se va a ver la primmera vez. Despues aparece unas flechitas de push y pull y hay que darle a eso para sincronizar con github.
 - .gitignore: you put the folders that you dont want in github. Un ejemplo es tener un archivo llamado ".gitignore" y que adentro diga "data/*". Eso significa que todo lo que este adentro de la carpeta data lo va a ignorar. 
+
+# How to download a repository from github
+1. Go to a terminal in the desired folder that you want to clone.
+2. Type "git clone https/github.com/repository".
