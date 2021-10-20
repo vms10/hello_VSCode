@@ -7,6 +7,9 @@
 # How to debug a C++ file in VS Code
 1. Run > Start debugging. Hay que poner antes el circulo rojo. Eso lo compila y ejecuta. (Elijo GDB y g++).
 
+# How to debug a C++ multi file in VS Code
+1. Watch this [tutorial](https://www.youtube.com/watch?v=DVyYnOHP4nY&t=4s).
+
 
 ## References
 This is based on the [video](https://www.youtube.com/watch?v=7QvNY9245hY). If you want a more detailed version you can check the tutorials from VS Code: [Tutorial1](https://code.visualstudio.com/docs/languages/cpp) and
