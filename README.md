@@ -9,6 +9,8 @@
 
 # How to debug a C++ multi file in VS Code
 1. Watch this [tutorial](https://www.youtube.com/watch?v=DVyYnOHP4nY&t=4s).
+1. Run > Start debugging. Hay que poner antes el circulo rojo. Eso lo compila y ejecuta. (Elijo GDB y g++). Eso me crea varios archivos .json.
+2. En tasks.json en tasks > args reemplazar  "${file}" por "*.cpp".
 
 
 ## References
