@@ -38,3 +38,9 @@ Based on this [tutorial](https://github.com/dsb-lab/SoftwareReproducibilityTutor
 # How to download a repository from github
 1. Go to a terminal in the desired folder that you want to clone.
 2. Type "git clone https/github.com/repository".
+
+
+# How to compile and run a java file in VS Code 
+I set up a java environment in VSCode with this tutorials:
+1. [tutorial1](https://www.youtube.com/watch?v=IJ-PJbvJBGs)
+2. [tutorial2](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
