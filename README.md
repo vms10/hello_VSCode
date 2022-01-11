@@ -44,3 +44,4 @@ Based on this [tutorial](https://github.com/dsb-lab/SoftwareReproducibilityTutor
 I set up a java environment in VSCode with this tutorials:
 1. [tutorial1](https://www.youtube.com/watch?v=IJ-PJbvJBGs)
 2. [tutorial2](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
+3. Con estos tutoriales no me andaba el Intellisense de VSCode. Lo arregle con esta [respuesta](https://stackoverflow.com/questions/63468403/vscode-not-suggesting-and-autocompleting-java-code).
