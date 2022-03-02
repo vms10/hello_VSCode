@@ -1,7 +1,7 @@
 # How to compile and run a C++ file in VS Code 
 1. Select the Terminal > Run Build Task. 
 2. Choose C/C++: g++.exe build active file. This will compile helloworld.cpp and create an executable file called helloworld.exe, which will appear in the File Explorer.
-3. From a command prompt or a new VS Code Integrated Terminal, you can now run your program by typing ".\helloworld".
+3. From a command prompt or a new VS Code Integrated Terminal, you can now run your program by typing ".\helloworld" (en windows), o "./helloworld" (en mac).
 
 
 # How to debug a C++ file in VS Code
